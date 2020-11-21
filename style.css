@@ -1,0 +1,21 @@
+/* #mypic {
+    padding: 0px 25px 25px 0px;
+} */
+
+
+#linkedin {
+    margin: 30px;
+}
+
+
+body {
+    background-image: url("./assets/white\ marble\ background.jpg");
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+}
+
+
+form {
+    background-color: whitesmoke;
+    padding: 20px;
+}

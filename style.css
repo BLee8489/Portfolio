@@ -7,9 +7,7 @@ body {
     background-image: url("./assets/white\ marble\ background.jpg");
     font-family: 'Courier New', Courier, monospace;
     font-size: large;
-
 }
-
 
 form {
     background-color: whitesmoke;
@@ -18,15 +16,15 @@ form {
 
 #contactme {
     padding: 0px 0px 0px 10px;
-    font-size: smaller;
+    /* font-size: smaller; */
 }
 
 #email {
     padding: 0px 0px 0px 10px;
-    font-size: smaller;
+    /* font-size: smaller; */
 }
 
 #phonenumber {
-    padding: 0px 0px 0px 8px;
-    font-size: smaller;
+    padding: 0px 0px 0px 5px;
+    /* font-size: smaller; */
 }
